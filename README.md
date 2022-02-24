@@ -4,6 +4,8 @@ A Scratch 3.0 Mod.
 
 ----
 
+[![Build Status](https://github.com/jasonglenevans/GvbvdxxsModSource/)](https://github.com/jasonglenevans/GvbvdxxsModSource/)
+
 # NOTICE:
 the source code is in google drive because of git bash will not upload the source code for some reason: https://drive.google.com/drive/folders/1oEfNXXZ8x2h4uux3_xjvu1SSS2lR0tMI?usp=sharing
 
