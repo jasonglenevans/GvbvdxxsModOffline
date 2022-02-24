@@ -22,6 +22,8 @@ or
 yarn build
 ```
 
+then copy over favicon.ico to the directory of the exe file
+
 # TESTING:
 do
 ```
