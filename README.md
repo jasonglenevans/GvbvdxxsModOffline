@@ -13,6 +13,10 @@ the source code is in google drive because of git bash will not upload the sourc
 
 # BUILDING:
 
+## For Offline
+
+----
+
 do
 ```
 npm build
@@ -23,6 +27,25 @@ yarn build
 ```
 
 then copy over favicon.ico to the directory of the exe file
+
+## Online Version
+
+----
+
+do
+```
+npm build
+```
+or
+```
+yarn build
+```
+
+## Updating Offline Version
+
+----
+Copy The index.html To The Built Version Then Copy The Builded Version (Not The Folder But The Files And The Folders Inside That Folder) To The Apps Folder
+In The Offline Version
 
 # TESTING:
 do
